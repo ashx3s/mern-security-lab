@@ -1,0 +1,24 @@
+{
+  "name": "mern-security-lab",
+  "version": "1.0.0",
+  "description": "A task management app built with Mongo, Express, React, and NodeJS that has been designed specifically to explore security vulnerabilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashx3s/mern-security-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ashx3s/mern-security-lab/issues"
+  },
+  "homepage": "https://github.com/ashx3s/mern-security-lab#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
